@@ -1,11 +1,6 @@
-input('x: ')
-print(1 // 1)
-print(4 // 2)
-print(6 // 2)
-print(8 // 2)
+lst = [3, 5, 6, 7, 8, 8]
 
-
-
-
-
-
+if i == [lst]:
+    print(i)
+else i + 1
+    print(i)

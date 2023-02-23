@@ -1,12 +1,14 @@
-lst = [1, 2, 3, 4, 5, 6]
-len(lst)
+#x = int(input("enter:"))
 
-lst2 = int(len(lst) / [2])
-lst3 = int(len(lst) / [2])
+#y = (x % 10 * 10000 + x * 1000 % 10 + x % 10 * 100 + x % 10 * 10 + x % 10 * 1)
+#print(y)
 
-lst4 = [lst2] + [lst3]
-print(len(lst))
-print(lst2)
-print(lst3)
-print(lst4)
+
+
+x =12345
+
+y = x % 10 + x % 10 * 1000
+
+print(y)
+
 
